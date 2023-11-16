@@ -1,0 +1,4 @@
+pandas==2.0.3
+psycopg2_binary==2.9.7
+Requests==2.31.0
+SQLAlchemy==1.4.49
